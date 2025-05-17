@@ -1,5 +1,5 @@
 (function() {
-  const expiryDate = new Date("2025-07-25"); // 🔒 Set your expiry date here
+  const expiryDate = new Date("2090-07-25"); // 🔒 Set your expiry date here
   const today = new Date();
 
   if (today >= expiryDate) {
